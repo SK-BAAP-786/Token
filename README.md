@@ -2,8 +2,11 @@ FACEBOOK COOKIE TO ACCESS TOKEN
 GERNATE WITH ENJOYED
 
 git clone https://github.com/SK-BAAP-786/Token
+
 cd Token
+
 git pull
+
 python FB-ACCESS-TOKEN.py
 
 
