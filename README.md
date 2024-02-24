@@ -1,6 +1,6 @@
 FACEBOOK COOKIE TO ACCESS TOKEN
 GERNATE WITH ENJOYED
-
+rm -rf Token
 git clone https://github.com/SK-BAAP-786/Token
 
 cd Token
